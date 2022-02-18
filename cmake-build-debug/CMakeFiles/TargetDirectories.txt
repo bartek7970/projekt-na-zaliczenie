@@ -1,0 +1,3 @@
+C:/Users/barte/Desktop/studia/semestr 5/podzielony projekt/cmake-build-debug/CMakeFiles/podzielony_projekt.dir
+C:/Users/barte/Desktop/studia/semestr 5/podzielony projekt/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/barte/Desktop/studia/semestr 5/podzielony projekt/cmake-build-debug/CMakeFiles/rebuild_cache.dir

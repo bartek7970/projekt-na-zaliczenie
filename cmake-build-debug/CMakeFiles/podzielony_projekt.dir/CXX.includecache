@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/barte/Desktop/studia/semestr 5/podzielony projekt/src/Kino.cpp
+iostream
+-
+string
+-
+iomanip
+-
+cstdlib
+-
+ctime
+-
+Kino.h
+C:/Users/barte/Desktop/studia/semestr 5/podzielony projekt/src/Kino.h
+
+C:/Users/barte/Desktop/studia/semestr 5/podzielony projekt/src/Kino.h
+
