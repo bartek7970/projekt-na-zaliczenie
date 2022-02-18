@@ -3,6 +3,7 @@ Na początku losuje liczbe z przedziału 0-60000, ktora symuluje liczbe osob zak
 Jeśli liczba zakażeń jest większa niż 25 tys. ogranicza miejsca w kinie do 75%.
 
 Menu posiada 6 opcji:
+
 1: Rejstracja użytkownika . Użytkownik wpisuje login, hasło oraz musi powtórzyć hasło. Jeśli hasła się zgadzają tworzy użytkownika
 2: Logowanie . Użytkownik podaje login i hasło na które założył konto, jeśli oba są poprawne to użytkownik zostaje zalogowany
 3: Sprawdź długość filmu. Po wybraniu tej opcji wyświetla nam się dodatkowe menu z dostępnym repertuarem. Po wybraniu filmu wyświetla jego długość w minutach
